@@ -36,8 +36,17 @@ We were required to create the user that we will be using in our future class.
    
    Granted Privileges: `CONNECT`, `RESOURCE`, `DBA`
 
-  ## Evidence
+  ## Evidence Required
 We used the above names as we were required to use them in our work the following is to show what we have created as the evidence of screenshots.
+ ### PDB creation command
+![CREATING_PDB](screenshots/CREATING_PDB.png)
+### PDB open state
+![pdb_open_state](screenshots/pdb_open_state.png)
+### User created inside the PDB
+![plsqlauca_28887](screenshots/plsqlauca_28887.png)
+
+
+
 
 
 
