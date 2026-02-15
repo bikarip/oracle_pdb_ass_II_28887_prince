@@ -1,5 +1,5 @@
 # Oracle Pluggable Databases (PDB) Management 
-**Name:** BIKARI Pince
+**Name:** BIKARI Prince
 
 **ID:** 28887
 
