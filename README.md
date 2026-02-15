@@ -75,11 +75,15 @@ Configure and access the web based management dashboard were done successfully.
  
    Verified the HTTPS port (5500).
    
-   Logged into `https://localhost:5500/em` as `SYS`.
+   Logged into `https://localhost:5500/em` as `SYS` 
+   and the other screenshot the first one shows the username is visible under our creation of PDB.
    
    Verified the PDB `pr_pdb_28887` is visible in the dashboard containers.
    
    ### Dashboard Evidence
+   <img width="944" height="137" alt="oem da" src="https://github.com/user-attachments/assets/1b9fcd44-a594-4a62-9bfd-d8b2e2dacdb6" />
+   
+
    ![OEM](screenshots/OEM_Dashboard/OEM.png)
 ![DASHBOARD](screenshots/OEM_Dashboard/DASHBOARD.png) 
 
