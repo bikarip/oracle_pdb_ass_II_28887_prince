@@ -71,6 +71,7 @@ These are the following screenshots showing the temporary PDB creation and delet
 
 # 5. Task 3: Oracle Enterprise Manager (OEM)
 Configure and access the web based management dashboard were done successfully.
+
  **Action:**
  
    Verified the HTTPS port (5500).
