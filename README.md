@@ -95,6 +95,8 @@ During this assignment, I have faced some challenges and i have tried to tackle 
 | **ORA-65016: FILE_NAME_CONVERT must be specified** | The database did not know where to store the new PDB files. I resolved this by creating a directory `C:\oracle_pdbs` and running `ALTER SYSTEM SET db_create_file_dest = 'C:\oracle_pdbs' SCOPE=BOTH;` to enable Oracle Managed Files (OMF). |
 | **ORA-01031: insufficient privileges** | I firstly tried to open the PDB using the `SYSTEM` user with default roles. I resolved this by reconnecting using the `SYS` user with the `SYSDBA` role. |
 | **ORA-01917: user does not exist (during Grant)** | I attempted to run the `GRANT` command before the `CREATE USER` command had fully processed. I resolved this by highlighting both commands and running them strictly in sequence. |
+
+
 **NB:** When going to run your commands you must select them all before you hit run button because it is good it can cause some problems.
 
 # 7. Integrity Statement
